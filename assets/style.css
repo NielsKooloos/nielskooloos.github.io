@@ -153,21 +153,6 @@ Roast
     opacity: 1;
 }
 
-/* ==========================
-Roast
-=============================*/
-@media (max-width: 767px) {
-    #barbaar {
-        position: relative;
-        bottom: 0;
-        right: 0;
-        margin-top: 20px;
-        text-align: right;
-        padding: 20px;       
-        pointer-events: auto;
-    }
-}
-
 /* =============================================================================
    BASE STYLES
    ============================================================================= */
